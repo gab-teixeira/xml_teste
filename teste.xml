@@ -1,0 +1,151 @@
+<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync http://xml.vivareal.com/vrsync.xsd">
+<Header>
+<Provider>Sobressai Sites e Sistemas</Provider>
+<Email>sobressai@sobressai.com.br</Email>
+</Header>
+<Listings>
+<Listing>
+<ListingID>5</ListingID>
+<TransactionType>For Sale</TransactionType>
+<Title>
+<![CDATA[ Excelente apartamento de 3 dormitórios mobiliado e equipado no Hom Lindóia Melnick REF: 5 ]]>
+</Title>
+<PublicationType>STANDARD</PublicationType>
+<Location displayAddress="Neighborhood">
+<Country abbreviation="BR">Brasil</Country>
+<State abbreviation="RS">RIO GRANDE DO SUL</State>
+<City>Porto Alegre</City>
+<Neighborhood>Cristo Redentor</Neighborhood>
+<Address>Travessa Américo Silveira</Address>
+<StreetNumber>146</StreetNumber>
+<Complement>704</Complement>
+<PostalCode>91370010</PostalCode>
+</Location>
+<Details>
+<UsageType>Residential</UsageType>
+<PropertyType>Residential / Apartment</PropertyType>
+<Description> Apartamento mobiliado e decorado com móveis e eletrodomésticos de alto padrão. Planta de 92m2 privativos de 3 dormitórios, um deles suíte, e um sendo usado como escritórios, possível usar também como quarto de hóspedes, Possui lavabo e amplo living de 2 ambientes integrado a cozinha gourmet com churrasqueira, e com janelões em L , bem iluminado e arejado. Sol da manhã: orientação solar leste/norte Ficam todos os móveis fixos, 3 splits instalados, aquecedor de água quente e mais alguns eletrodomésticos, possui cortinas rolô blackout instaladas e telas para mosquitos e de segurança em todas as janelas As vagas de garagem são espaçosas, lado a lado e cobertas no pavimento térreo. A infraestrutura do condomínio é de alto padrão e completa: com portaria 24 horas, salão de festas, academia, brinquedoteca e playground. Agende uma visita Não perca essa oportunidade 20/08/2024</Description>
+<ListPrice currency="BRL">890000</ListPrice>
+<PropertyAdministrationFee currency="BRL" period="Monthly">880</PropertyAdministrationFee>
+<LivingArea unit="square metres">92</LivingArea>
+<Bedrooms>3</Bedrooms>
+<Bathrooms>3</Bathrooms>
+<Garage>2</Garage>
+<Suites>1</Suites>
+<Exclusive>sim</Exclusive>
+<UnitFloor>7</UnitFloor>
+<Features>
+<Feature>Pool</Feature>
+<Feature>salão de festas</Feature>
+<Feature>Playground</Feature>
+<Feature>Gym</Feature>
+<Feature>portaria 24 horas</Feature>
+<Feature>Elevator</Feature>
+<Feature>gerador</Feature>
+<Feature>brinquedoteca</Feature>
+</Features>
+</Details>
+<Media>
+<Item medium="image" caption="img1" primary="true">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807269_g.jpg</Item>
+<Item medium="image" caption="img2">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807270_g.jpg</Item>
+<Item medium="image" caption="img3">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807271_g.jpg</Item>
+<Item medium="image" caption="img4">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807272_g.jpg</Item>
+<Item medium="image" caption="img5">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807273_g.jpg</Item>
+<Item medium="image" caption="img6">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807274_g.jpg</Item>
+<Item medium="image" caption="img7">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807275_g.jpg</Item>
+<Item medium="image" caption="img8">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807276_g.jpg</Item>
+<Item medium="image" caption="img9">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807277_g.jpg</Item>
+<Item medium="image" caption="img10">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807278_g.jpg</Item>
+<Item medium="image" caption="img11">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807280_g.jpg</Item>
+<Item medium="image" caption="img12">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807281_g.jpg</Item>
+<Item medium="image" caption="img13">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807282_g.jpg</Item>
+<Item medium="image" caption="img14">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807283_g.jpg</Item>
+<Item medium="image" caption="img15">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807285_g.jpg</Item>
+<Item medium="image" caption="img16">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807286_g.jpg</Item>
+<Item medium="image" caption="img17">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807287_g.jpg</Item>
+<Item medium="image" caption="img18">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807288_g.jpg</Item>
+<Item medium="image" caption="img19">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807289_g.jpg</Item>
+<Item medium="image" caption="img20">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807290_g.jpg</Item>
+<Item medium="image" caption="img21">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807293_g.jpg</Item>
+<Item medium="image" caption="img22">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807295_g.jpg</Item>
+<Item medium="image" caption="img23">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807296_g.jpg</Item>
+<Item medium="image" caption="img24">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807298_g.jpg</Item>
+<Item medium="image" caption="img25">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807299_g.jpg</Item>
+<Item medium="image" caption="img26">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807300_g.jpg</Item>
+<Item medium="image" caption="img27">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807301_g.jpg</Item>
+<Item medium="image" caption="img28">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807303_g.jpg</Item>
+<Item medium="image" caption="img29">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807313_g.jpg</Item>
+<Item medium="image" caption="img30">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807306_g.jpg</Item>
+<Item medium="image" caption="img31">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807305_g.jpg</Item>
+<Item medium="image" caption="img32">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807307_g.jpg</Item>
+<Item medium="image" caption="img33">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807314_g.jpg</Item>
+<Item medium="image" caption="img34">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807315_g.jpg</Item>
+<Item medium="image" caption="img35">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807309_g.jpg</Item>
+<Item medium="image" caption="img36">http://fotos.sobressai.com.br/Fotos/2146/2387033/31807304_g.jpg</Item>
+</Media>
+</Listing>
+<Listing>
+<ListingID>2</ListingID>
+<TransactionType>For Sale</TransactionType>
+<Title>
+<![CDATA[ Arbo Residence.: Apartamentos de 3 suítes, sacada com churrasqueira no bairro Higienópolis REF: 2 ]]>
+</Title>
+<PublicationType>STANDARD</PublicationType>
+<Location displayAddress="Neighborhood">
+<Country abbreviation="BR">Brasil</Country>
+<State abbreviation="RS">RIO GRANDE DO SUL</State>
+<City>Porto Alegre</City>
+<Neighborhood>Higienópolis</Neighborhood>
+</Location>
+<Details>
+<UsageType>Residential</UsageType>
+<PropertyType>Residential / Apartment</PropertyType>
+<Description> Excelente planta. apartamento de 106m2 com 3 suítes, sendo uma máster e duas americanas. Living 2 ambientes , mais sacada com churrasqueira e lavabo. Lindíssima infraestrutura de lazer com rooftop na cobertura Aproveite as condições facilitadas de pagamento Apartamentos de 106 e 119m2 Torre única Infraestrutura com piscina, pool house com piscina aquecida, salão de festas, academia, sala de jogos, coworking, brinquedoteca e playground. Além de um lindo rooftop com espaço gourmet Empreendimento com selo diamante em sustentabilidade Entrega em 24 meses. Aproveite para montar a sua condição de pagamento. Agende uma visita conosco E surpreenda-se 20/08/2024</Description>
+<ListPrice currency="BRL">1240000</ListPrice>
+<LivingArea unit="square metres">106</LivingArea>
+<Bedrooms>3</Bedrooms>
+<Bathrooms>3</Bathrooms>
+<Garage>2</Garage>
+<Suites>3</Suites>
+<Features>
+<Feature>BBQ</Feature>
+<Feature>Pool</Feature>
+<Feature>salão de festas</Feature>
+<Feature>Playground</Feature>
+<Feature>Gym</Feature>
+<Feature>portaria 24 horas</Feature>
+<Feature>Elevator</Feature>
+<Feature>coworking</Feature>
+<Feature>brinquedoteca</Feature>
+<Feature>deck molhado</Feature>
+<Feature>horta</Feature>
+</Features>
+</Details>
+<Media>
+<Item medium="image" caption="img1" primary="true">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169078_g.jpg</Item>
+<Item medium="image" caption="img2">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169076_g.jpg</Item>
+<Item medium="image" caption="img3">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169077_g.jpg</Item>
+<Item medium="image" caption="img4">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169079_g.jpg</Item>
+<Item medium="image" caption="img5">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169080_g.jpg</Item>
+<Item medium="image" caption="img6">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169081_g.jpg</Item>
+<Item medium="image" caption="img7">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169082_g.jpg</Item>
+<Item medium="image" caption="img8">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169083_g.jpg</Item>
+<Item medium="image" caption="img9">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169084_g.jpg</Item>
+<Item medium="image" caption="img10">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169085_g.jpg</Item>
+<Item medium="image" caption="img11">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169086_g.jpg</Item>
+<Item medium="image" caption="img12">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169092_g.jpg</Item>
+<Item medium="image" caption="img13">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169093_g.jpg</Item>
+<Item medium="image" caption="img14">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169094_g.jpg</Item>
+<Item medium="image" caption="img15">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169095_g.jpg</Item>
+<Item medium="image" caption="img16">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169096_g.jpg</Item>
+<Item medium="image" caption="img17">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169097_g.jpg</Item>
+<Item medium="image" caption="img18">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169098_g.jpg</Item>
+<Item medium="image" caption="img19">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169099_g.jpg</Item>
+<Item medium="image" caption="img20">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169100_g.jpg</Item>
+<Item medium="image" caption="img21">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169101_g.jpg</Item>
+<Item medium="image" caption="img22">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169102_g.jpg</Item>
+<Item medium="image" caption="img23">http://fotos.sobressai.com.br/Fotos/2146/2352050/31169103_g.jpg</Item>
+</Media>
+</Listing>
+</Listings>
+</ListingDataFeed>
